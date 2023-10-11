@@ -1,1 +1,1 @@
-# UART_verilog
+# UART RTL Verilog Design
